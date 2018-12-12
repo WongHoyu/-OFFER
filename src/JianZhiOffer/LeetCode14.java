@@ -1,7 +1,5 @@
 package JianZhiOffer;
 
-import quTouTiao.ReserveChar;
-
 public class LeetCode14 {
     public static ListNode ReverseList(ListNode head) {
         if (head == null) {

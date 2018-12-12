@@ -25,7 +25,7 @@ public class Solution18 {
         return stack2.pop();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Solution18 solution18 = new Solution18();
         solution18.push(1);
         solution18.push(2);
